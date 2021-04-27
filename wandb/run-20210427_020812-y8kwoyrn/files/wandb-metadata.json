@@ -1,0 +1,22 @@
+{
+    "os": "Linux-5.4.72-microsoft-standard-WSL2-x86_64-with-glibc2.10",
+    "python": "3.8.6",
+    "heartbeatAt": "2021-04-27T00:08:19.009451",
+    "startedAt": "2021-04-27T00:08:12.013747",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/mnt/d/Pegasus_Model/StudentPegasus/train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/hadywalied/StudentPegasus",
+        "commit": "8dd067884aea7e73980d7b9d4fcd66b5a0dcba5c"
+    },
+    "email": "my.mepharo1230@gmail.com",
+    "root": "/mnt/d/Pegasus_Model/StudentPegasus",
+    "host": "E5-Hady",
+    "username": "hady",
+    "executable": "/home/hady/miniconda3/envs/huggingface/bin/python"
+}

@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/home/hady/miniconda3/envs/huggingface/bin/python",
+    "cSpell.ignoreWords": [
+        "all",
+        "cuda",
+        "datefmt",
+        "gigaword",
+        "lbls",
+        "preds",
+        "wandb"
+    ]
+}
